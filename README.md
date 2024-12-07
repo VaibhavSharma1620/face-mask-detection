@@ -3,10 +3,10 @@
 ## Project Overview
 
 This project implements a robust face mask detection system using deep learning, specifically a fine-tuned ResNet18 neural network. The application can detect and classify faces in images based on mask-wearing status with high accuracy.
-
+more examples in examples folder
 ![Project Demo](/examples/result8.jpg)
 ![Project Demo](/examples/result6.jpg)
-more examples in examples folder
+
 ## Key Features
 
 - 🔬 **Advanced Face Detection**: Utilizes RetinaFace for precise face detection
