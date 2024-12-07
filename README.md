@@ -47,10 +47,9 @@ pip install -r requirements.txt
 
 ## Dataset and Pre-trained Model
 
-🗂️ **Dataset and Model Location**: 
-The dataset and pre-trained model are hosted on Google Drive. 
-- [Dataset Link](https://drive.google.com/path/to/dataset)
-- [Pre-trained Model Link](https://drive.google.com/path/to/model)
+🗂️ **Dataset,training curve and Model Location**: 
+The dataset,training curve and pre-trained model are hosted on Google Drive. 
+- [Drive Link](https://drive.google.com/drive/folders/1lIi9m6ugOU8Ui3vc24h9x5osekxCVcgm?usp=sharing)
 
 ## Usage
 
